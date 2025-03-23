@@ -1,16 +1,18 @@
-## Hi there 👋
+# Noa Sivan | Software Engineer 👨‍💻
 
-<!--
-**noasivan1/noasivan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+🚀 Hi there, I'm Noa An aspiring Software Engineer passionate about crafting elegant solutions to complex problems.
+Currently honing my skills in Java, C#, C, and C++. 
+Always eager to learn, collaborate, and contribute to innovative projects that push the boundaries of what's possible in tech.
 
-Here are some ideas to get you started:
+Let's build the future, one commit at a time! 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+-  Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
+
+## 🏆 Notable Projects
+1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
+   - Java, JavaFX GUI, MySQL, JDBC, OCSF
+   - Client-server architecture for efficient restaurant management
+
+  
