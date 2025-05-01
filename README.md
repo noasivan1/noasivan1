@@ -34,7 +34,7 @@
 
 - Full-stack fitness app enabling users to join and track fitness challenges  
 - Includes user authentication, admin panel, BMI calculator, and dark/light mode  
-- Built as part of a 6-person academic project team in collaboration with [Eden Kantor](https://github.com/EdenKantor)
+- Built as part of a 6-person academic project team
 
 ---
 
