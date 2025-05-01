@@ -1,18 +1,43 @@
-# Noa Sivan | Software Engineer 👨‍💻
+<h1 align="center">Hey there 👋, I'm Noa Sivan</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Team Player | Solution-Oriented</h3>
 
-## 👋 About Me
-🚀 Hi there, I'm Noa An aspiring Software Engineer passionate about crafting elegant solutions to complex problems.
-Currently honing my skills in Java, C#, C, and C++. 
-Always eager to learn, collaborate, and contribute to innovative projects that push the boundaries of what's possible in tech.
+---
 
-Let's build the future, one commit at a time! 💻✨
+## 👩‍💻 About Me
+
+🎓 Software Engineering student with experience in Java, C#, C, and full-stack web development.  
+💡 Passionate about creating intuitive, efficient software that solves real-world problems.  
+🤝 Motivated to collaborate, grow, and continuously improve.
+
+---
 
 ## 💻 Technical Skills
--  Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
+
+- **Programming Languages**: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly  
+- **Technologies & Tools**: Git, GitHub, Node.js, MongoDB, Preact, Tailwind CSS, .NET, JavaFX, REST APIs
+
+---
 
 ## 🏆 Notable Projects
-1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
-   - Java, JavaFX GUI, MySQL, JDBC, OCSF
-   - Client-server architecture for efficient restaurant management
 
-  
+### 1️⃣ [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)  
+📌 *Java, JavaFX, MySQL, JDBC, OCSF*  
+- Desktop application for managing a restaurant chain with multiple user roles  
+- Real-time data flow using client-server architecture  
+- Built in a team as part of an academic semester project
+
+---
+
+### 2️⃣ [WebFitPro – Fitness Challenge App](https://github.com/noasivan1/Fitness-Challenge-App.git)  
+📌 *Node.js, Express.js, MongoDB, Preact, Tailwind CSS*  
+[🌐 Live Demo](https://web-fit-pro-front-kappa.vercel.app)
+
+- Full-stack fitness app enabling users to join and track fitness challenges  
+- Includes user authentication, admin panel, BMI calculator, and dark/light mode  
+- Built as part of a 6-person academic project team in collaboration with [Eden Kantor](https://github.com/EdenKantor)
+
+---
+
+## 📬 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-noasivan1-black?logo=github&style=for-the-badge)](https://github.com/noasivan1)
