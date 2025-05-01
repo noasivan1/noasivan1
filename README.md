@@ -40,4 +40,6 @@
 
 ## 📬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-noasivan1-black?logo=github&style=for-the-badge)](https://github.com/noasivan1)
+[![GitHub](https://img.shields.io/badge/GitHub-noasivan1-black?logo=github&style=for-the-badge)](https://github.com/noasivan1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noa%20Sivan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/noasivan/)
+
