@@ -38,7 +38,7 @@
 
 ---
 
-### 3️⃣ [Ginosar Boat AR Experience](https://youtu.be/pYSJcdPLsd4?si=Fv46IvaKnk7kZ0Gu)  
+### 3️⃣ [Ginosar Boat AR Experience](https://github.com/noasivan1/GinossarBoatAR.git)  
 📌 *Unity, AR Foundation, C#, Android, Image Tracking*  
 [📱 Download APK](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw)
 
