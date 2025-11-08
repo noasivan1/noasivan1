@@ -38,6 +38,20 @@
 
 ---
 
+### 3️⃣ [Ginosar Boat AR Experience](https://youtu.be/pYSJcdPLsd4?si=Fv46IvaKnk7kZ0Gu)  
+📌 *Unity, AR Foundation, C#, Android, Image Tracking*  
+[📱 Download APK](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw)
+
+- Interactive mobile AR app developed for the **Yigal Allon Museum**  
+- Uses **image tracking** to bring the story of the ancient **Ginosar Boat** to life through **3D animation**, **narration**, and **educational content**  
+- Includes multilingual support (**Hebrew / English**) with dynamic UI localization  
+- Features 4 interactive modes:  
+  🧠 **Quiz Maze**, 🖼 **Gallery**, 🎬 **Video Player**, 🚪 **Exit Dialog**  
+- Built in a 2-person team project (**Eden Kantor & Noa Sivan**)  
+- Repository managed via **Unity Version Control (Plastic SCM)** and distributed with **Unity Cloud Build**
+
+---
+
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-noasivan1-black?logo=github&style=for-the-badge)](https://github.com/noasivan1)  
